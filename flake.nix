@@ -1,5 +1,5 @@
 {
-  description = "Neve is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options";
+  description = "nixim is a Neovim configuration built with Nixvim, which allows you to use Nix language to manage Neovim plugins/options";
 
   inputs = {
     nixvim.url = "github:nix-community/nixvim";
